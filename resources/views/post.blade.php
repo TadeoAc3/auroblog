@@ -1,0 +1,1 @@
+<h1> holo  {{ $post->title }}</h1>
